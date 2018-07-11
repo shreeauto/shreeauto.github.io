@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+	galleryTitle="Shree Automobiles Gallery"
+>
+  <image imageURL="images/Graphic1.jpg"
+	thumbURL="images/Graphic1.jpg"
+	linkURL="images/Graphic1.jpg"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+  <image imageURL="images/FullSizeRender1.jpg"
+	thumbURL="images/FullSizeRender1.jpg"
+	linkURL="images/FullSizeRender1.jpg"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+  <image imageURL="images/FullSizeRender3.jpg"
+	thumbURL="images/FullSizeRender3.jpg"
+	linkURL="images/FullSizeRender3.jpg"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+  <image imageURL="images/FullSizeRender5.jpg"
+	thumbURL="images/FullSizeRender5.jpg"
+	linkURL="images/FullSizeRender5.jpg"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+  <image imageURL="images/FullSizeRender6.jpg"
+	thumbURL="images/FullSizeRender6.jpg"
+	linkURL="images/FullSizeRender6.jpg"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+  <image imageURL="images/FullSizeRender7.jpg"
+	thumbURL="images/FullSizeRender7.jpg"
+	linkURL="images/FullSizeRender7.jpg"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+  <image imageURL="images/FullSizeRender8.jpg"
+	thumbURL="images/FullSizeRender8.jpg"
+	linkURL="images/FullSizeRender8.jpg"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+  <image imageURL="images/FullSizeRender10.jpg"
+	thumbURL="images/FullSizeRender10.jpg"
+	linkURL="images/FullSizeRender10.jpg"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+  <image imageURL="images/FullSizeRender11.jpg"
+	thumbURL="images/FullSizeRender11.jpg"
+	linkURL="images/FullSizeRender11.jpg"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+  <image imageURL="images/FullSizeRender12.jpg"
+	thumbURL="images/FullSizeRender12.jpg"
+	linkURL="images/FullSizeRender12.jpg"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+  <image imageURL="images/FullSizeRender13.jpg"
+	thumbURL="images/FullSizeRender13.jpg"
+	linkURL="images/FullSizeRender13.jpg"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+  <image imageURL="images/FullSizeRender4.jpg"
+	thumbURL="images/FullSizeRender14.jpg"
+	linkURL="images/FullSizeRender14.jpg"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+  <image imageURL="images/FullSizeRender16.jpg"
+	thumbURL="images/FullSizeRender16.jpg"
+	linkURL="images/FullSizeRender16.jpg"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+  <image imageURL="images/FullSizeRender17.jpg"
+	thumbURL="images/FullSizeRender17.jpg"
+	linkURL="images/FullSizeRender17.jpg"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+  <image imageURL="images/IMG_5245.JPG"
+	thumbURL="images/IMG_5245.JPG"
+	linkURL="images/IMG_5245.JPG"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+  <image imageURL="images/IMG_5250.JPG"
+	thumbURL="images/IMG_5250.JPG"
+	linkURL="images/IMG_5250.JPG"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+   <image imageURL="images/IMG_5254.JPG"
+	thumbURL="images/IMG_5254.JPG"
+	linkURL="images/IMG_5254.JPG"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+   <image imageURL="images/IMG_5256.JPG"
+	thumbURL="images/IMG_5256.JPG"
+	linkURL="images/IMG_5256.JPG"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+   <image imageURL="images/IMG_5257.JPG"
+	thumbURL="images/IMG_5257.JPG"
+	linkURL="images/IMG_5257.JPG"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+   <image imageURL="images/IMG_5260.JPG"
+	thumbURL="images/IMG_5260.JPG"
+	linkURL="images/IMG_5260.JPG"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+   <image imageURL="images/IMG_5263.JPG"
+	thumbURL="images/IMG_5263.JPG"
+	linkURL="images/IMG_5263.JPG"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+   <image imageURL="images/IMG_5266.JPG"
+	thumbURL="images/IMG_5266.JPG"
+	linkURL="images/IMG_5266.JPG"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+   <image imageURL="images/IMG_5267.JPG"
+	thumbURL="images/IMG_5267.JPG"
+	linkURL="images/IMG_5267.JPG"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+   <image imageURL="images/IMG_5270.JPG"
+	thumbURL="images/IMG_5270.JPG"
+	linkURL="images/IMG_5270.JPG"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+   <image imageURL="images/IMG_5271.JPG"
+	thumbURL="images/IMG_5271.JPG"
+	linkURL="images/IMG_5271.JPG"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+   <image imageURL="images/IMG_5275.JPG"
+	thumbURL="images/IMG_5275.JPG"
+	linkURL="images/IMG_5275.JPG"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+   <image imageURL="images/IMG_5277.JPG"
+	thumbURL="images/IMG_5277.JPG"
+	linkURL="images/IMG_5277.JPG"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+   <image imageURL="images/IMG_5279.JPG"
+	thumbURL="images/IMG_5279.JPG"
+	linkURL="images/IMG_5279.JPG"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+   <image imageURL="images/IMG_5288.JPG"
+	thumbURL="images/IMG_5288.JPG"
+	linkURL="images/IMG_5288.JPG"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+   <image imageURL="images/IMG_5291.JPG"
+	thumbURL="images/IMG_5291.JPG"
+	linkURL="images/IMG_5291.JPG"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+   <image imageURL="images/IMG_5292.JPG"
+	thumbURL="images/IMG_5292.JPG"
+	linkURL="images/IMG_5292.JPG"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+   <image imageURL="images/IMG_5296.JPG"
+	thumbURL="images/IMG_5296.JPG"
+	linkURL="images/IMG_5296.JPG"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+   <image imageURL="images/IMG_5300.JPG"
+	thumbURL="images/IMG_5300.JPG"
+	linkURL="images/IMG_5300.JPG"
+	linkTarget="_blank">
+	<!-- <title>Welcome to Shree Auto</title> -->
+  </image>
+</juiceboxgallery>
